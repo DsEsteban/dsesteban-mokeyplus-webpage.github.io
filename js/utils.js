@@ -1,5 +1,1 @@
-(function(){
-  // initializing AOS
-  AOS.init();
-
-})();
+(function(){AOS.init();})();
